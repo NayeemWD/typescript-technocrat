@@ -44,7 +44,7 @@ const throwErro=(msg: string): never => {
     throw new Error(msg);
  }
 
- throwErro('mushkil se error hogaya')
+ throwErro('mushkil se error hogaya my name is nayeem')
 
 
 }
